@@ -36,10 +36,6 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
-// let playerSelection = prompt("Rock, Paper or Scissors? Choose wisely!");
-// let computerSelection = getComputerChoice();
-console.log(playRound(playerSelection, computerSelection));
-
 function playGame() {
     let playerScore = 0;
     let computerScore = 0;
